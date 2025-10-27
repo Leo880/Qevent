@@ -2,7 +2,7 @@
   return <h1 className="text-3xl font-bold">Events Page</h1>;
 } */
 
-
+"use client";
 import { useEffect, useState } from "react";
 import EventCard from "@/components/EventCard";
 
